@@ -1,8 +1,8 @@
 ## 🌗 O que eu aprendi com o Dark Mode
 
 <p align="center">
-  <img src="print/print1.png" alt="print1" width="50%">
-  <img src="print/print2.png" alt="print2" width="50%">
+  <img src="print/print1.png" alt="print1" width="100%">
+  <img src="print/print2.png" alt="print2" width="100%">
 </p>
 
 Neste projeto, aprendi a criar um botão que ativa o **modo escuro (dark mode)** em um site, utilizando **HTML**, **CSS** e **JavaScript**. Com isso, aprendi a:
